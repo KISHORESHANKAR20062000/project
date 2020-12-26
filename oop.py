@@ -33,6 +33,7 @@ class course:
 s1 = student("kishore", 20, 50)
 s2 = student("guru", 20, 20)
 s3 = student("karthi", 20, 75)
+s3 = student("vignesh", 28, 75)
 Course = course('science', 2)
 Course.add_students(s1)
 Course.add_students(s2)
